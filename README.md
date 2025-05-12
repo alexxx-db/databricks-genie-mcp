@@ -2,7 +2,7 @@
 
 This project implements a Model Context Protocol (MCP) server that exposes Databricks Genie API capabilities as tools. It allows you to integrate Databricks' no-code AI/BI assistant features with other applications through a standardized interface, enabling powerful natural language querying of your Databricks data.
 
-For a detailed explanation and example use cases, please see the accompanying [blog post](https://medium.com/@AI-on-Databricks/querying-databricks-system-tables-using-ai-bi-genie-and-mcp-fd79dfbcf9e8?source=user_profile_page---------0-------------b8508cc0ff74----------------------).
+For a detailed explanation and example use cases, please see the accompanying [blog post](https://tonteria.substack.com/p/reimagining-enterprise-data-exploration).
 
 ## Features
 
